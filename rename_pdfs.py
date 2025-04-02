@@ -5,27 +5,23 @@ import re
 
 # Define the mapping of topics to their topic numbers
 topic_mapping = {
-    'ConstructingaConfidenceIntervalforaPopulationProportion': '6.2',
-    'JustifyingaClaimBasedonaConfidenceIntervalforaPopulationProportion': '6.3',
-    'SettingUpaTestforaPopulationProportion': '6.4',
-    'InterpretingPValues': '6.5',
-    'ConcludingaTestforaPopulationProportion': '6.6',
-    'PotentialErrorsWhenPerformingTests': '6.7',
-    'ConfidenceIntervalsfortheDifferenceofTwoProportions': '6.8',
-    'JustifyingaClaimBasedonaConfidenceIntervalforaDifferenceBetweenPopulationProportions': '6.9',
-    'SettingUpaTestfortheDifferenceofTwoPopulationProportions': '6.10',
-    'CarryingOutaTestfortheDifferenceofTwoPopulationProportions': '6.11',
-    'Unit6ProgressCheckFRQ': 'unit6_pc_frq',
-    'Unit6ProgressCheckMCQPartA': 'unit6_pc_mcq_parta',
-    'Unit6ProgressCheckMCQPartB': 'unit6_pc_mcq_partb',
-    'Unit6ProgressCheckMCQPartC': 'unit6_pc_mcq_partc',
-    'Unit6ProgressCheckMCQPartc': 'unit6_pc_mcq_partc',
-    'Unit6ProgressCheckMCQPartD': 'unit6_pc_mcq_partd',
+    'ConstructingaConfidenceIntervalforaPopulationMean': '7.2',
+    'JustifyingaClaimAboutaPopulationMeanBasedonaConfidenceInterval': '7.3',
+    'SettingUpaTestforaPopulationMean': '7.4',
+    'CarryingOutaTestforaPopulationMean': '7.5',
+    'ConfidenceIntervalsfortheDifferenceofTwoMeans': '7.6',
+    'JustifyingaClaimAbouttheDifferenceofTwoMeansBasedonaConfidenceInterval': '7.7',
+    'SettingUpaTestfortheDifferenceofTwoPopulationMeans': '7.8',
+    'CarryingOutaTestfortheDifferenceofTwoPopulationMeans': '7.9',
+    'Unit7ProgressCheckFRQ': 'unit7_pc_frq',
+    'Unit7ProgressCheckMCQPartA': 'unit7_pc_mcq_parta',
+    'Unit7ProgressCheckMCQPartB': 'unit7_pc_mcq_partb',
+    'Unit7ProgressCheckMCQPartC': 'unit7_pc_mcq_partc',
 }
 
 def rename_pdfs():
-    # Path to the Unit 6 PDFs
-    pdf_dir = 'pdfs/unit6'
+    # Path to the Unit 7 PDFs
+    pdf_dir = 'pdfs/unit7'
     
     # Check if directory exists
     if not os.path.exists(pdf_dir):
