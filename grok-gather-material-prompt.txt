@@ -1,0 +1,7 @@
+I need to gather resources for [Unit X] of my AP Statistics course to update my student webpage. Using the provided AP Statistics knowledge tree, guide me topic by topic (including the Progress Check) to collect:
+
+Quiz PDF(s) for each topic, if available.
+Answer PDF(s) for each topic, if available.
+AP Classroom video URL(s) for each topic, if available.
+Google Drive backup video URL(s) for each topic, if prepared.
+Proceed systematically, starting with the first topic of [Unit X], and ensure all materials are provided before moving to the next. Once all resources are collected, provide associations between video URLs (AP Classroom and Google Drive) and topics, followed by associations between PDFs (questions and answers) and topics, as done for Unit 5. Keep responses brief and ask for clarification if needed.
