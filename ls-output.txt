@@ -1,31 +1,70 @@
-LPS+ColsonR@LPS-5CD32865BG MINGW64 ~/Downloads/ApstatUnit7 (main)
-$ ls -R
+LPS+ColsonR@LPS-5CD32865BG MINGW64 ~/Downloads/apstat/unit 7 (main)
+$ ls -lR
 .:
-Index-reference-spec.gemini.json  gemini-index-spec-maker.txt      index.html         ls-output.txt  pdfs/
-claude-build-prompt.txt           grok-gather-material-prompt.txt  knowledge-tree.md  media-map.md   rename_pdfs.py*
+total 185
+-rw-r--r-- 1 LPS+ColsonR 4096  12703 Apr  5 14:10 Index-spec.json
+-rw-r--r-- 1 LPS+ColsonR 4096   2114 Apr  2 19:13 claude-build-alpha.txt
+-rw-r--r-- 1 LPS+ColsonR 4096   1256 Apr  5 14:20 claude-build-beta.txt
+-rw-r--r-- 1 LPS+ColsonR 4096     89 Apr  2 19:13 gemini-index-spec-maker.txt
+-rw-r--r-- 1 LPS+ColsonR 4096   2126 Apr  2 19:13 grok-gather-material-prompt.txt
+-rw-r--r-- 1 LPS+ColsonR 4096 124974 Apr  5 14:02 index.html
+-rw-r--r-- 1 LPS+ColsonR 4096   6813 Apr  2 19:13 knowledge-tree.md
+-rw-r--r-- 1 LPS+ColsonR 4096   2339 Apr  2 19:13 ls-output.txt
+-rw-r--r-- 1 LPS+ColsonR 4096   8505 Apr  2 19:13 media-map.md
+drwxr-xr-x 1 LPS+ColsonR 4096      0 Apr  2 19:13 pdfs/
+-rwxr-xr-x 1 LPS+ColsonR 4096   3565 Apr  2 19:13 rename_pdfs.py*
+-rw-r--r-- 1 LPS+ColsonR 4096   3292 Apr  5 14:22 verify_conversion.py
 
 ./pdfs:
-UnitWeights.pdf  unit7/
+total 244
+-rw-r--r-- 1 LPS+ColsonR 4096 239835 Apr  2 19:13 UnitWeights.pdf
+drwxr-xr-x 1 LPS+ColsonR 4096      0 Apr  2 19:13 unit7/
 
 ./pdfs/unit7:
-SG_CarryingOutaTestforaPopulationMeanQuiz_67ec8bed0b1e44.67ec8bee89d407.53945085.pdf
-SG_CarryingOutaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8d5dcd14f4.67ec8d5f72e1b3.24281778.pdf
-SG_ConfidenceIntervalsfortheDifferenceofTwoMeansQuiz_67ec8c66e2d5d6.67ec8c6862c977.20370671.pdf
-SG_ConstructingaConfidenceIntervalforaPopulationMeanQuiz_67ec8aeab12cd3.67ec8aec241450.71925925.pdf
-SG_JustifyingaClaimAboutaPopulationMeanBasedonaConfidenceIntervalQuiz_67ec8b4c0618f8.67ec8b4d4d56a8.98779924.pdf
-SG_JustifyingaClaimAbouttheDifferenceofTwoMeansBasedonaConfidenceIntervalQuiz_67ec8ca9a3f297.67ec8cab274429.20692021.pdf
-SG_SettingUpaTestforaPopulationMeanQuiz_67ec8b98719db6.67ec8b99c80398.71828145.pdf
-SG_SettingUpaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8d00749fa5.67ec8d02438105.10181622.pdf
-SG_Unit7ProgressCheckFRQ_67ec8de23dbd54.67ec8de3dc5d15.16131148.pdf
-SG_Unit7ProgressCheckMCQPartA_67ec8de4668334.67ec8de5c54491.43320228.pdf
-SG_Unit7ProgressCheckMCQPartB_67ec8de7e07ee9.67ec8de9d2e2f6.87374095.pdf
-SG_Unit7ProgressCheckMCQPartC_67ec8dec164aa2.67ec8dee677b89.63156368.pdf
-TB_CarryingOutaTestforaPopulationMeanQuiz_67ec8be82e8030.67ec8be9662ea4.96303748.pdf
-TB_CarryingOutaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8d59b32bf8.67ec8d5b2cd954.83970822.pdf
-TB_ConfidenceIntervalsfortheDifferenceofTwoMeansQuiz_67ec8c62eefb37.67ec8c643322b9.77053788.pdf
-TB_ConstructingaConfidenceIntervalforaPopulationMeanQuiz_67ec8aef3eda34.67ec8af08fbd17.59512514.pdf
-TB_JustifyingaClaimAboutaPopulationMeanBasedonaConfidenceIntervalQuiz_67ec8b482e6218.67ec8b494dc797.66666087.pdf
-TB_JustifyingaClaimAbouttheDifferenceofTwoMeansBasedonaConfidenceIntervalQuiz_67ec8ca5ef16e0.67ec8ca70f28b5.27400311.pdf
-TB_SettingUpaTestforaPopulationMeanQuiz_67ec8b92b81785.67ec8b94102335.04688969.pdf
-TB_SettingUpaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8cfb8efc17.67ec8cfd43a456.38612500.pdf
-TB_Unit7ProgressCheckFRQ_67ec8ddcb60397.67ec8dddbe3c73.17638971.pdf
+total 6784
+-rw-r--r-- 1 LPS+ColsonR 4096 289372 Apr  2 19:13 7.2_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 222480 Apr  2 19:13 7.2_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 217203 Apr  2 19:13 7.3_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 197995 Apr  2 19:13 7.3_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 251528 Apr  2 19:13 7.4_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 224371 Apr  2 19:13 7.4_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 380077 Apr  2 19:13 7.5_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 237987 Apr  2 19:13 7.5_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 334365 Apr  2 19:13 7.6_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 254356 Apr  2 19:13 7.6_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 266288 Apr  2 19:13 7.7_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 181613 Apr  2 19:13 7.7_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 489278 Apr  2 19:13 7.8_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 373334 Apr  2 19:13 7.8_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 417779 Apr  2 19:13 7.9_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 341792 Apr  2 19:13 7.9_quiz.pdf
+drwxr-xr-x 1 LPS+ColsonR 4096      0 Apr  2 19:13 original_files/
+-rw-r--r-- 1 LPS+ColsonR 4096 589140 Apr  2 19:13 unit7_pc_frq_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 188497 Apr  2 19:13 unit7_pc_frq_quiz.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 285689 Apr  2 19:13 unit7_pc_mcq_parta_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 529989 Apr  2 19:13 unit7_pc_mcq_partb_answers.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 609116 Apr  2 19:13 unit7_pc_mcq_partc_answers.pdf
+
+./pdfs/unit7/original_files:
+total 6768
+-rw-r--r-- 1 LPS+ColsonR 4096 380077 Apr  2 19:13 SG_CarryingOutaTestforaPopulationMeanQuiz_67ec8bed0b1e44.67ec8bee89d407.53945085.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 417779 Apr  2 19:13 SG_CarryingOutaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8d5dcd14f4.67ec8d5f72e1b3.24281778.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 334365 Apr  2 19:13 SG_ConfidenceIntervalsfortheDifferenceofTwoMeansQuiz_67ec8c66e2d5d6.67ec8c6862c977.20370671.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 289372 Apr  2 19:13 SG_ConstructingaConfidenceIntervalforaPopulationMeanQuiz_67ec8aeab12cd3.67ec8aec241450.71925925.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 217203 Apr  2 19:13 SG_JustifyingaClaimAboutaPopulationMeanBasedonaConfidenceIntervalQuiz_67ec8b4c0618f8.67ec8b4d4d56a8.98779924.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 266288 Apr  2 19:13 SG_JustifyingaClaimAbouttheDifferenceofTwoMeansBasedonaConfidenceIntervalQuiz_67ec8ca9a3f297.67ec8cab274429.20692021.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 251528 Apr  2 19:13 SG_SettingUpaTestforaPopulationMeanQuiz_67ec8b98719db6.67ec8b99c80398.71828145.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 489278 Apr  2 19:13 SG_SettingUpaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8d00749fa5.67ec8d02438105.10181622.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 589140 Apr  2 19:13 SG_Unit7ProgressCheckFRQ_67ec8de23dbd54.67ec8de3dc5d15.16131148.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 285689 Apr  2 19:13 SG_Unit7ProgressCheckMCQPartA_67ec8de4668334.67ec8de5c54491.43320228.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 529989 Apr  2 19:13 SG_Unit7ProgressCheckMCQPartB_67ec8de7e07ee9.67ec8de9d2e2f6.87374095.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 609116 Apr  2 19:13 SG_Unit7ProgressCheckMCQPartC_67ec8dec164aa2.67ec8dee677b89.63156368.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 237987 Apr  2 19:13 TB_CarryingOutaTestforaPopulationMeanQuiz_67ec8be82e8030.67ec8be9662ea4.96303748.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 341792 Apr  2 19:13 TB_CarryingOutaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8d59b32bf8.67ec8d5b2cd954.83970822.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 254356 Apr  2 19:13 TB_ConfidenceIntervalsfortheDifferenceofTwoMeansQuiz_67ec8c62eefb37.67ec8c643322b9.77053788.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 222480 Apr  2 19:13 TB_ConstructingaConfidenceIntervalforaPopulationMeanQuiz_67ec8aef3eda34.67ec8af08fbd17.59512514.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 197995 Apr  2 19:13 TB_JustifyingaClaimAboutaPopulationMeanBasedonaConfidenceIntervalQuiz_67ec8b482e6218.67ec8b494dc797.66666087.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 181613 Apr  2 19:13 TB_JustifyingaClaimAbouttheDifferenceofTwoMeansBasedonaConfidenceIntervalQuiz_67ec8ca5ef16e0.67ec8ca70f28b5.27400311.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 224371 Apr  2 19:13 TB_SettingUpaTestforaPopulationMeanQuiz_67ec8b92b81785.67ec8b94102335.04688969.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 373334 Apr  2 19:13 TB_SettingUpaTestfortheDifferenceofTwoPopulationMeansQuiz_67ec8cfb8efc17.67ec8cfd43a456.38612500.pdf
+-rw-r--r-- 1 LPS+ColsonR 4096 188497 Apr  2 19:13 TB_Unit7ProgressCheckFRQ_67ec8ddcb60397.67ec8dddbe3c73.17638971.pdf

@@ -1,0 +1,23 @@
+Convert AP Statistics Unit 7 (Inference for Quantitative Data: Means) to Unit 8 (Inference for Categorical Data: Chi-Square) by:
+
+1. Replace all "Unit 7" with "Unit 8" in HTML title, headers, and content
+2. Update exam weight: "10-18%" → "2-5%"
+3. Replace all paths: "pdfs/unit7/7." → "pdfs/unit8/8."
+4. Update pdfFiles array:
+   - Change id: "7-n" → "8-n" for all topics
+   - Change name: "Topic 7.n" → "Topic 8.n"
+   - Update descriptions from knowledge-tree.md (Unit 8 topics)
+   - Replace video URLs with links from urls-map.md for Unit 8
+   - Update quiz PDF paths using pdf-map.txt for Unit 8
+   - Update all quiz IDs: "7-n_q1" → "8-n_q1"
+5. Update capstone: "7-capstone" → "8-capstone" with correct PDF paths
+6. Change localStorage key: "apStatsUnit7TopicProgress" → "apStatsUnit8TopicProgress"
+
+Note: Unit 8 has 7 topics (8.1-8.7) vs. Unit 7's 10 topics - adjust topic count accordingly.
+
+Use these files for reference:
+- knowledge-tree.md (Unit 8 topics & descriptions)
+- media-map.md (Unit 8 video links & Unit 8 PDF mappings)
+- ls-output.txt (directory structure)
+
+Run verify_conversion.py after the change to ensure complete conversion with no references to Unit 7 remaining.
