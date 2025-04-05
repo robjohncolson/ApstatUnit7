@@ -1,0 +1,24 @@
+Convert AP Statistics Unit 6 (Inference for Categorical Data: Proportions) to Unit 7 (Inference for Quantitative Data: Means) by:
+
+1. Replace all "Unit 6" with "Unit 7" in HTML title, headers, and content
+2. Update exam weight: "12-15%" → "10-18%"
+3. Replace all paths: "pdfs/unit6/6." → "pdfs/unit7/7."
+4. Update pdfFiles array:
+   - Change id: "6-n" → "7-n" for all topics
+   - Change name: "Topic 6.n" → "Topic 7.n"
+   - Update descriptions from knowledge-tree.md (Unit 7 topics)
+   - Replace video URLs with links from urls-map.md for Unit 7
+   - Update quiz PDF paths using pdf-map.txt for Unit 7
+   - Update all quiz IDs: "6-n_q1" → "7-n_q1"
+5. Update capstone: "6-capstone" → "7-capstone" with correct PDF paths
+6. Change localStorage key: "apStatsUnit6TopicProgress" → "apStatsUnit7TopicProgress"
+
+Note: Unit 7 has 10 topics (7.1-7.10) vs. Unit 6's 11 topics - adjust topic count accordingly.
+
+Use these files for reference:
+- knowledge-tree.md (Unit 7 topics & descriptions)
+- media-map.md (Unit 7 video links & Unit 7 PDF mappings)
+- ls-output.txt (directory structure)
+
+Modify a python program to verify all changes to ensure complete conversion with no references to Unit 6 remaining.
+- verify_conversion.py
