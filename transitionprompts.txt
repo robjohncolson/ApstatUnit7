@@ -12,7 +12,7 @@ Please replace all references of Unit 3 to unit 7.
 
 Restrict modifcations to index.html!
 
-unit 7's AP exam weight is 12-15%
+unit 7's AP exam weight is 10-18%
 
 3
 Now let's focus on capstone in @index.html.  The buttons gotta match where they head to.  if the button is mated to an FRQ answer, let the button express that.  If it's mated to an MCQ part A answer, let it say that!
