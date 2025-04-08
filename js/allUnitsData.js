@@ -614,7 +614,18 @@ const ALL_UNITS_DATA = [
         name: "Topic 3.3",
         description: "Random Sampling and Data Collection",
         videos: [
-          /* video entries */
+          {
+            url: "https://apclassroom.collegeboard.org/d/0we2mcfcam?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/1ogJAzU5hvGomK2eZGCkMza7EOpU67BaT/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          },
+          {
+            url: "https://apclassroom.collegeboard.org/d/ljd0cb2e7u?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/1jiVMlN3Y_xdARYHGB1ASbOSwroRfuFCB/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          }
         ],
         quizzes: [
           {
@@ -632,7 +643,12 @@ const ALL_UNITS_DATA = [
         name: "Topic 3.4",
         description: "Potential Problems with Sampling",
         videos: [
-          /* video entries */
+          {
+            url: "https://apclassroom.collegeboard.org/d/tndkb7he2i?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/1o3YuZt7Kai5qovHysWo4vaXlHp3WXtc9/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          }
         ],
         quizzes: [
           {
@@ -650,7 +666,24 @@ const ALL_UNITS_DATA = [
         name: "Topic 3.5",
         description: "Introduction to Experimental Design",
         videos: [
-          /* video entries */
+          {
+            url: "https://apclassroom.collegeboard.org/d/k19v0dbk86?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/1PVA-SIVNccjFYexZsUrHbdCps1wlKeBl/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          },
+          {
+            url: "https://apclassroom.collegeboard.org/d/z5lwfxjjdv?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/1x43Gy-QtIflBQXHe39LqIkABco0qrkMi/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          },
+          {
+            url: "https://apclassroom.collegeboard.org/d/0xfkk5691j?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/1pp-KwUGnBS-6RWvB4U5eKxopkCOYQ9KD/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          }
         ],
         quizzes: [
           {
@@ -668,7 +701,18 @@ const ALL_UNITS_DATA = [
         name: "Topic 3.6",
         description: "Selecting an Experimental Design",
         videos: [
-          /* video entries */
+          {
+            url: "https://apclassroom.collegeboard.org/d/2ausyc2u4j?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/14I05d33AzFvCrjTAFSxtAlPiFLEuspZK/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          },
+          {
+            url: "https://apclassroom.collegeboard.org/d/01da23635a?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/1DQZQMZVzesDILUqzVetIysD7DB94UYVT/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          }
         ],
         quizzes: [
           {
@@ -686,7 +730,12 @@ const ALL_UNITS_DATA = [
         name: "Topic 3.7",
         description: "Inference and Experiments",
         videos: [
-          /* video entries */
+          {
+            url: "https://apclassroom.collegeboard.org/d/cgkp7vw65d?sui=33,3",
+            altUrl: "https://drive.google.com/file/d/10TnxIb09QzsRvYQm-G3eiWQ5CSrELuJz/view?usp=drive_link",
+            completed: false,
+            completionDate: null
+          }
         ],
         quizzes: [
           {
@@ -2045,200 +2094,6 @@ const ALL_UNITS_DATA = [
     ]
   },
   {
-    unitId: 'unit9',
-    topics: [
-      {
-        id: "9-1",
-        name: "Topic 9.1",
-        description: "Introducing Statistics: Do Those Points Align?",
-        videos: [
-            {
-                url: "https://apclassroom.collegeboard.org/d/pdddxf5g7m?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1aMPs1uK5H7dvYoVaGh2TQLkdJGBAjoPd/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        quizzes: [],
-        current: false
-      },
-      {
-        id: "9-2",
-        name: "Topic 9.2",
-        description: "Confidence Intervals for the Slope of a Regression Model",
-        videos: [
-            {
-                url: "https://apclassroom.collegeboard.org/d/juuru4ud2g?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/18e3wAS58P1SW1ok8tv3mtFPhmM3pCRwN/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            },
-            {
-                url: "https://apclassroom.collegeboard.org/d/s7fp3ef6i1?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1LLyG6B71f0kAoo6QHxQPb1JGQ4hVwkKq/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            },
-            {
-                url: "https://apclassroom.collegeboard.org/d/ote8293qie?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1UkOJyY-qEovCHQANK5jtZhzNNpa4iHbK/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        quizzes: [
-            {
-                questionPdf: "pdfs/unit9/9-2_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-2_quiz_answer.pdf",
-                quizId: "9-2_q1",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        current: false
-      },
-      {
-        id: "9-3",
-        name: "Topic 9.3",
-        description: "Justifying a Claim About the Slope of a Regression Model Based on a Confidence Interval",
-        videos: [
-            {
-                url: "https://apclassroom.collegeboard.org/d/umv9qc22kb?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1yWqjcF-IyHImRwTBV3cEIt13u0infZzI/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            },
-            {
-                url: "https://apclassroom.collegeboard.org/d/ynbq7du52l?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1GqvcUy_AJRnTgDORWQkAVHSWjKpRxTaT/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        quizzes: [
-            {
-                questionPdf: "pdfs/unit9/9-3_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-3_quiz_answer.pdf",
-                quizId: "9-3_q1",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        current: false
-      },
-      {
-        id: "9-4",
-        name: "Topic 9.4",
-        description: "Setting Up a Test for the Slope of a Regression Model",
-        videos: [
-            {
-                url: "https://apclassroom.collegeboard.org/d/quc0brlorr?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1LKHmLObjf3Nnszvk833XeLgH5JJ9F0_g/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            },
-            {
-                url: "https://apclassroom.collegeboard.org/d/mqvjasjnfa?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1EBPBsC-oJXGaxn7jp1Q92IWetvaPNl1M/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        quizzes: [
-            {
-                questionPdf: "pdfs/unit9/9-4_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-4_quiz_answer.pdf",
-                quizId: "9-4_q1",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        current: false
-      },
-      {
-        id: "9-5",
-        name: "Topic 9.5",
-        description: "Carrying Out a Test for the Slope of a Regression Model",
-        videos: [
-            {
-                url: "https://apclassroom.collegeboard.org/d/qepiqzyga4?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1aggJHSL5dJcEBYuo4Z7M_lvsoLvx4RYY/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            },
-            {
-                url: "https://apclassroom.collegeboard.org/d/7rptngcenm?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1vct7foAM_sxXzRy4rviUox0DkQMm7Yf-/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            },
-            {
-                url: "https://apclassroom.collegeboard.org/d/mwl7ag5ipr?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1h5OJH_mC6MUqmKbW_K-Xqx7IN3bjOscz/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        quizzes: [
-            {
-                questionPdf: "pdfs/unit9/9-5_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-5_quiz_answer.pdf",
-                quizId: "9-5_q1",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        current: false
-      },
-      {
-        id: "9-6",
-        name: "Topic 9.6",
-        description: "Skills Focus: Selecting an Appropriate Inference Procedure",
-        videos: [
-            {
-                url: "https://apclassroom.collegeboard.org/d/mitydyeo84?sui=33,9",
-                altUrl: "https://drive.google.com/file/d/1FcZcPYSLBXLkfBkpkyTfAWQ6tR_WxZ6o/view?usp=drive_link",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        quizzes: [],
-        current: false
-      },
-      {
-        id: "9-capstone",
-        name: "Unit 9 Progress Check",
-        description: "Capstone Assessment",
-        videos: [],
-        quizzes: [
-            {
-                questionPdf: "pdfs/unit9/9-PC_FRQ_quiz.pdf",
-                answersPdf: "pdfs/unit9/9-PC_FRQ_answer.pdf",
-                quizId: "9-capstone_q1",
-                completed: false,
-                completionDate: null
-            },
-            {
-                questionPdf: "pdfs/unit9/9-PC_MCQ_A_answer.pdf",
-                answersPdf: "pdfs/unit9/9-PC_MCQ_A_answer.pdf",
-                quizId: "9-capstone_q2",
-                completed: false,
-                completionDate: null
-            },
-            {
-                questionPdf: "pdfs/unit9/9-PC_MCQ_B_answer.pdf",
-                answersPdf: "pdfs/unit9/9-PC_MCQ_B_answer.pdf",
-                quizId: "9-capstone_q3",
-                completed: false,
-                completionDate: null
-            }
-        ],
-        isCapstone: true,
-        current: false
-      }
-    ]
-  },
-  {
     unitId: 'unit8',
     topics: [
       {
@@ -2282,8 +2137,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit8/8.2_quiz.pdf",
-                answersPdf: "pdfs/unit8/8.2_quiz_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_section8.2_quiz.pdf",
+                answersPdf: "pdfs/unit8/unit8_section8.2_answers.pdf",
                 quizId: "8-2_q1",
                 completed: false,
                 completionDate: null
@@ -2317,8 +2172,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit8/8.3_quiz.pdf",
-                answersPdf: "pdfs/unit8/8.3_quiz_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_section8.3_quiz.pdf",
+                answersPdf: "pdfs/unit8/unit8_section8.3_answers.pdf",
                 quizId: "8-3_q1",
                 completed: false,
                 completionDate: null
@@ -2340,8 +2195,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit8/8.4_quiz.pdf",
-                answersPdf: "pdfs/unit8/8.4_quiz_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_section8.4_quiz.pdf",
+                answersPdf: "pdfs/unit8/unit8_section8.4_answers.pdf",
                 quizId: "8-4_q1",
                 completed: false,
                 completionDate: null
@@ -2369,8 +2224,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit8/8.5_quiz.pdf",
-                answersPdf: "pdfs/unit8/8.5_quiz_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_section8.5_quiz.pdf",
+                answersPdf: "pdfs/unit8/unit8_section8.5_answers.pdf",
                 quizId: "8-5_q1",
                 completed: false,
                 completionDate: null
@@ -2404,8 +2259,8 @@ const ALL_UNITS_DATA = [
         ],
         quizzes: [
             {
-                questionPdf: "pdfs/unit8/8.6_quiz.pdf",
-                answersPdf: "pdfs/unit8/8.6_quiz_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_section8.6_quiz.pdf",
+                answersPdf: "pdfs/unit8/unit8_section8.6_answers.pdf",
                 quizId: "8-6_q1",
                 completed: false,
                 completionDate: null
@@ -2435,21 +2290,21 @@ const ALL_UNITS_DATA = [
         videos: [],
         quizzes: [
             {
-                questionPdf: "pdfs/unit8/8-PC_FRQ_quiz.pdf",
-                answersPdf: "pdfs/unit8/8-PC_FRQ_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_pc_frq.pdf",
+                answersPdf: "pdfs/unit8/unit8_pc_frq_answers.pdf",
                 quizId: "8-capstone_q1",
                 completed: false,
                 completionDate: null
             },
             {
-                questionPdf: "pdfs/unit8/8-PC_MCQ_A_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_pc_mcq_partA_answers.pdf",
                 answersPdf: null,
                 quizId: "8-capstone_q2",
                 completed: false,
                 completionDate: null
             },
             {
-                questionPdf: "pdfs/unit8/8-PC_MCQ_B_answer.pdf",
+                questionPdf: "pdfs/unit8/unit8_pc_mcq_partB_answers.pdf",
                 answersPdf: null,
                 quizId: "8-capstone_q3",
                 completed: false,
@@ -2460,7 +2315,202 @@ const ALL_UNITS_DATA = [
         current: false
       }
     ]
-  }
+  },
+  {
+    unitId: 'unit9',
+    topics: [
+      {
+        id: "9-1",
+        name: "Topic 9.1",
+        description: "Introducing Statistics: Do Those Points Align?",
+        videos: [
+            {
+                url: "https://apclassroom.collegeboard.org/d/pdddxf5g7m?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1aMPs1uK5H7dvYoVaGh2TQLkdJGBAjoPd/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        quizzes: [],
+        current: false
+      },
+      {
+        id: "9-2",
+        name: "Topic 9.2",
+        description: "Confidence Intervals for the Slope of a Regression Model",
+        videos: [
+            {
+                url: "https://apclassroom.collegeboard.org/d/juuru4ud2g?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/18e3wAS58P1SW1ok8tv3mtFPhmM3pCRwN/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            },
+            {
+                url: "https://apclassroom.collegeboard.org/d/s7fp3ef6i1?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1LLyG6B71f0kAoo6QHxQPb1JGQ4hVwkKq/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            },
+            {
+                url: "https://apclassroom.collegeboard.org/d/ote8293qie?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1UkOJyY-qEovCHQANK5jtZhzNNpa4iHbK/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        quizzes: [
+            {
+                questionPdf: "pdfs/unit9/unit9_section9.2_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.2_answers.pdf",
+                quizId: "9-2_q1",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        current: false
+      },
+      {
+        id: "9-3",
+        name: "Topic 9.3",
+        description: "Justifying a Claim About the Slope of a Regression Model Based on a Confidence Interval",
+        videos: [
+            {
+                url: "https://apclassroom.collegeboard.org/d/umv9qc22kb?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1yWqjcF-IyHImRwTBV3cEIt13u0infZzI/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            },
+            {
+                url: "https://apclassroom.collegeboard.org/d/ynbq7du52l?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1GqvcUy_AJRnTgDORWQkAVHSWjKpRxTaT/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        quizzes: [
+            {
+                questionPdf: "pdfs/unit9/unit9_section9.3_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.3_answers.pdf",
+                quizId: "9-3_q1",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        current: false
+      },
+      {
+        id: "9-4",
+        name: "Topic 9.4",
+        description: "Setting Up a Test for the Slope of a Regression Model",
+        videos: [
+            {
+                url: "https://apclassroom.collegeboard.org/d/quc0brlorr?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1LKHmLObjf3Nnszvk833XeLgH5JJ9F0_g/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            },
+            {
+                url: "https://apclassroom.collegeboard.org/d/mqvjasjnfa?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1EBPBsC-oJXGaxn7jp1Q92IWetvaPNl1M/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        quizzes: [
+            {
+                questionPdf: "pdfs/unit9/unit9_section9.4_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.4_answers.pdf",
+                quizId: "9-4_q1",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        current: false
+      },
+      {
+        id: "9-5",
+        name: "Topic 9.5",
+        description: "Carrying Out a Test for the Slope of a Regression Model",
+        videos: [
+            {
+                url: "https://apclassroom.collegeboard.org/d/qepiqzyga4?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1aggJHSL5dJcEBYuo4Z7M_lvsoLvx4RYY/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            },
+            {
+                url: "https://apclassroom.collegeboard.org/d/7rptngcenm?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1vct7foAM_sxXzRy4rviUox0DkQMm7Yf-/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            },
+            {
+                url: "https://apclassroom.collegeboard.org/d/mwl7ag5ipr?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1h5OJH_mC6MUqmKbW_K-Xqx7IN3bjOscz/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        quizzes: [
+            {
+                questionPdf: "pdfs/unit9/unit9_section9.5_quiz.pdf",
+                answersPdf: "pdfs/unit9/unit9_section9.5_answers.pdf",
+                quizId: "9-5_q1",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        current: false
+      },
+      {
+        id: "9-6",
+        name: "Topic 9.6",
+        description: "Skills Focus: Selecting an Appropriate Inference Procedure",
+        videos: [
+            {
+                url: "https://apclassroom.collegeboard.org/d/mitydyeo84?sui=33,9",
+                altUrl: "https://drive.google.com/file/d/1FcZcPYSLBXLkfBkpkyTfAWQ6tR_WxZ6o/view?usp=drive_link",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        quizzes: [],
+        current: false
+      },
+      {
+        id: "9-capstone",
+        name: "Unit 9 Progress Check",
+        description: "Capstone Assessment",
+        videos: [],
+        quizzes: [
+            {
+                questionPdf: "pdfs/unit9/unit9_pc_frq.pdf",
+                answersPdf: "pdfs/unit9/unit9_pc_frq_answers.pdf",
+                quizId: "9-capstone_q1",
+                completed: false,
+                completionDate: null
+            },
+            {
+                questionPdf: "pdfs/unit9/unit9_pc_mcq_partA_answers.pdf",
+                answersPdf: "pdfs/unit9/unit9_pc_mcq_partA_answers.pdf",
+                quizId: "9-capstone_q2",
+                completed: false,
+                completionDate: null
+            },
+            {
+                questionPdf: "pdfs/unit9/unit9_pc_mcq_partB_answers.pdf",
+                answersPdf: "pdfs/unit9/unit9_pc_mcq_partB_answers.pdf",
+                quizId: "9-capstone_q3",
+                completed: false,
+                completionDate: null
+            }
+        ],
+        isCapstone: true,
+        current: false
+      }
+    ]
+  },
+  
 ]; // End of ALL_UNITS_DATA array
 
 // Optional helper function to calculate totals (can be included in the same file)
